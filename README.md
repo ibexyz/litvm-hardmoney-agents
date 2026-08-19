@@ -98,6 +98,21 @@ forge script script/Deploy.s.sol:Deploy \
   -vvvv
 ```
 
+
+## Live Contracts (LitVM LiteForge Testnet)
+
+| Contract          | Address                                      | Explorer |
+|-------------------|----------------------------------------------|----------|
+| **AgentEscrow**   | `0x197B880e387aFC1303dec0306e871035bB470760` | [View](https://liteforge.explorer.caldera.xyz/address/0x197B880e387aFC1303dec0306e871035bB470760) |
+| **AgentRegistry** | `0xf3af1633d481dF24a2d9738D7fA697907Eb85b04` | [View](https://liteforge.explorer.caldera.xyz/address/0xf3af1633d481dF24a2d9738D7fA697907Eb85b04) |
+
+**Network:** LitVM LiteForge (Chain ID: 4441)  
+**Owner / Creator:** `0x2768ef0331cfde4cab0ffbf989c8f9d622c64c10`
+
+### Registered Agents
+- `0x2768ef0331cfde4cab0ffbf989c8f9d622c64c10` → **Pronous**
+
+
 After successful deployment, the console will show the addresses of `AgentRegistry` and `AgentEscrow`. Save them.
 
 ---
