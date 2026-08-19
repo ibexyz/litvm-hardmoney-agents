@@ -1,0 +1,35 @@
+# Environment
+.env
+.env.local
+*.env
+
+# Foundry
+cache/
+out/
+broadcast/
+deployments/*.json
+!deployments/.gitkeep
+
+# Node
+node_modules/
+dist/
+.next/
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Secrets
+private_key*
+*.pem
