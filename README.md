@@ -137,4 +137,3 @@ MIT
 ---
 
 **Built for LitVM • Hard Money Web3 • AI Agents**  
-**Creator: 0x2768ef0331cfde4cab0ffbf989c8f9d622c64c10**
